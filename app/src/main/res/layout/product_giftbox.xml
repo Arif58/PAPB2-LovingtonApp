@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/titlegiftbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginBottom="640dp"
+        android:fontFamily="@font/opensansbold"
+        android:text="Gift Box"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/GiftBoxSnack"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/giftboxsnack"
+        tools:ignore="ContentDescription,MissingConstraints"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="146dp" />
+
+    <ImageView
+        android:id="@+id/GiftBoxHijab"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/giftboxhijab"
+        tools:ignore="ContentDescription,MissingConstraints"
+        tools:layout_editor_absoluteX="242dp"
+        tools:layout_editor_absoluteY="144dp" />
+
+    <ImageView
+        android:id="@+id/GiftBoxSkincare"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/giftboxskincare"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="365dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/GiftBoxBoneka"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/giftboxboneka"
+        tools:layout_editor_absoluteX="242dp"
+        tools:layout_editor_absoluteY="365dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewGiftBoxSnack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:text="Gift Box Snack"
+        android:textColor="@color/black"
+        tools:ignore="HardcodedText,MissingConstraints"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <TextView
+        android:id="@+id/textViewHargaGiftBoxSnack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserratregular"
+        android:text="Rp45.000"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="310dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewGiftBoxHijab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:text="Gift Box Hijab"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="246dp"
+        tools:layout_editor_absoluteY="286dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewHargaGiftBoxHijab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserratregular"
+        android:text="Rp50.000"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="247dp"
+        tools:layout_editor_absoluteY="310dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewGiftBoxSkincare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:text="Gift Box Uang"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="507dp"
+        tools:ignore="MissingConstraints" />
+
+
+    <TextView
+        android:id="@+id/textViewHargaGiftBoxSkincare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="72dp"
+        android:fontFamily="@font/montserratregular"
+        android:text="Rp100.000"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="531dp" />
+
+    <TextView
+        android:id="@+id/textViewGiftBoxBoneka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:text="Gift Box Boneka"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="507dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textViewHargaGiftBoxBoneka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserratregular"
+        android:text="Rp100.000"
+        android:textColor="@color/black"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="531dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

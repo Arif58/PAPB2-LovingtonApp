@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LovingtonApp</string>
+    <string name="description">Kami menjual hadiah dengan berbagai macam variasi yang unik</string>
+    <string name="jenis_produk">Jenis Produk</string>
+    <string name="bucket">Bucket</string>
+    <string name="cake">Cake</string>
+    <string name="gift_box">Gift Box</string>
+    <string name="lovington">Lovington</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>

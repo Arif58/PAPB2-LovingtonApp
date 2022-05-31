@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgColor"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        android:src="@drawable/clearlogo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.380" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:text="Lovington"
+        android:textColor="@color/black"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.200"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.690" />
+
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="316dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/montserratregular"
+        android:text="@string/description"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="90dp"
+        android:backgroundTint="@color/loginColor"
+        android:fontFamily="@font/montserratbold"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        app:cornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="40dp"
+        android:backgroundTint="@color/buttonColor"
+        android:fontFamily="@font/montserratbold"
+        android:text="Register"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        app:cornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

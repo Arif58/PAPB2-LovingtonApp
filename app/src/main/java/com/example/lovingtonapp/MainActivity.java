@@ -1,57 +1,51 @@
 package com.example.lovingtonapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentTransaction;
+
+import com.example.lovingtonapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-    Button btnLogin, btnRegister;
-    Animation ttb, btt;
-    ImageView logo;
-    TextView title, desc;
 
+    ActivityMainBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        binding = ActivityMainBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
+        replaceFragment(new HomeFragment());
 
-        ttb = AnimationUtils.loadAnimation(this, R.anim.ttb);
-        btt = AnimationUtils.loadAnimation(this, R.anim.btt);
+        binding.bottomNavigationView.setOnItemSelectedListener(item -> {
 
-        btnLogin = findViewById(R.id.btnLogin);
-        btnRegister = findViewById(R.id.btnRegister);
+            switch (item.getItemId()){
 
-        logo = findViewById(R.id.imageView);
-        title = findViewById(R.id.title);
-        desc = findViewById(R.id.description);
+                case R.id.home:
+                    replaceFragment(new HomeFragment());
+                    break;
+                case R.id.history:
+                    replaceFragment(new HistoryFragment());
+                    break;
+                case R.id.account:
+                    replaceFragment(new AccountFragment());
+                    break;
 
-        logo.startAnimation(ttb);
-        title.startAnimation(ttb);
-        desc.startAnimation(ttb);
-        btnLogin.startAnimation(btt);
-        btnRegister.startAnimation(btt);
-
-        btnLogin.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent gotologin = new Intent(MainActivity.this, LoginActivity.class);
-                startActivity(gotologin);
             }
-        });
 
-        btnRegister.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent gotoregister = new Intent(MainActivity.this, RegisterActivity.class);
-                startActivity(gotoregister);
-            }
+            return true;
+
         });
     }
+
+    private void  replaceFragment(Fragment fragment){
+
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+        fragmentTransaction.replace(R.id.frame_layout,fragment);
+        fragmentTransaction.commit();
+    }
+
 }

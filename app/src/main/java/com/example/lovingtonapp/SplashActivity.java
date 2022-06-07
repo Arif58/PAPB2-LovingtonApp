@@ -31,7 +31,7 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void run() {
                 //merubah activity
-                Intent gotomain = new Intent(SplashActivity.this, MainActivity.class);
+                Intent gotomain = new Intent(SplashActivity.this, GetStartedActivity.class);
                 startActivity(gotomain);
                 finish();
             }

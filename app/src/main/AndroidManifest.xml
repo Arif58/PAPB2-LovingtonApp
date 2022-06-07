@@ -21,7 +21,8 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".RegisterActivity"/>
         <activity android:name=".LoginActivity" />
-        <activity android:name=".HomeActivity" />
+        <activity android:name=".GetStartedActivity"/>
+
 
     </application>
 

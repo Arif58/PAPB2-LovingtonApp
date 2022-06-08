@@ -8,15 +8,54 @@
         <entry key="..\:/Data Arif/Semester 4/Android 2/LovingtonApp/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
         <entry key="..\:/Data Arif/Semester 4/Android 2/LovingtonApp/app/src/main/res/layout/product_category.xml" value="0.264" />
         <entry key="..\:/Data Arif/Semester 4/Android 2/LovingtonApp/app/src/main/res/layout/register.xml" value="0.264" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/login.xml" value="0.3625" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/navigasi_bawah.xml" value="0.3625" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_bucket.xml" value="0.2" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_cake.xml" value="0.4" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_category.xml" value="0.4" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_giftbox.xml" value="0.4" />
-        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/register.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_detailproduk.xml" value="0.152" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_empty.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_getstarted.xml" value="0.25" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_login.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_main.xml" value="0.1421875" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_register.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_splash.xml" value="0.1421875" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/activity_succesorder.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/fragment_account.xml" value="0.2" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/fragment_history.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/fragment_home.xml" value="0.234375" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/login.xml" value="0.1421875" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_category.xml" value="0.176" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/product_giftbox.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp-arip/app/src/main/res/layout/register.xml" value="0.1421875" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/activity_getstarted.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/activity_register.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/fragment_cake.xml" value="0.4" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Coding/AndroidProject/PAPB2-LovingtonApp/app/src/main/res/layout/product_cake.xml" value="0.25" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2328125" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/drawable/bg_layout_purple.xml" value="0.1537037037037037" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/drawable/state_bnve.xml" value="0.13148148148148148" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/drawable/textview_border.xml" value="0.13703703703703704" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_detailproduk.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_empty.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_getstarted.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_login.xml" value="0.20677083333333332" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_riwayat.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_succesorder.xml" value="0.176" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/activity_succesregister.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/fragment_account.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/fragment_history.xml" value="0.4742468415937804" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/login.xml" value="0.15625" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/product_category.xml" value="0.152" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/layout/register.xml" value="0.4" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/menu/bottomnavigtion_menu.xml" value="0.1" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/ppbergerak/PAPB2-LovingtonApp-main/app/src/main/res/menu/state_bnve.xml" value="0.1" />
       </map>
     </option>
   </component>

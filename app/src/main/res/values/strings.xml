@@ -1,11 +1,36 @@
 <resources>
     <string name="app_name">LovingtonApp</string>
-    <string name="description">Kami menjual hadiah dengan berbagai macam variasi yang unik</string>
-    <string name="jenis_produk">Jenis Produk</string>
+    <string name="description">We sell gifts with a variety of unique variations</string>
+    <string name="jenis_produk">Types of products</string>
     <string name="bucket">Bucket</string>
     <string name="cake">Cake</string>
     <string name="gift_box">Gift Box</string>
     <string name="lovington">Lovington</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="history">History</string>
+    <string name="phone">Phone Number</string>
+    <string name="confpw">Confirm Password</string>
+    <string name="detail_product">Detail Product</string>
+    <string name="product_name">Product name</string>
+    <string name="composisi">Composisi</string>
+    <string name="amount">Amount</string>
+    <string name="price">Price</string>
+    <string name="address">Address</string>
+    <string name="order">Order</string>
+    <string name="order_history">Order History</string>
+    <string name="profile">Profile</string>
+    <string name="activity">Activity</string>
+    <string name="languages">Languages</string>
+    <string name="logout">Log out</string>
+    <string name="uselocation">Use current location</string>
+    <string name="succes_order">Order successful</string>
+    <string name="desc_order">Wait for confirmation</string>
+    <string name="desc_order2">from the seller on your whatsapp!</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>

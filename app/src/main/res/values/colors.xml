@@ -10,5 +10,8 @@
     <color name="bgColor">#F7F5F2</color>
     <color name="loginColor">#C4C4C4</color>
     <color name="buttonColor">#F56D91</color>
+    <color name="labelColor">#8D8DAA</color>
+    <color name="textlogout">#E87070</color>
+
 
 </resources>

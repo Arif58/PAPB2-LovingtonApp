@@ -10,6 +10,7 @@
     android:id="@+id/splash_screen">
 
     <ImageView
+        android:id="@+id/app_logo"
         android:layout_width="300dp"
         android:layout_height="300dp"
         android:layout_centerHorizontal="true"

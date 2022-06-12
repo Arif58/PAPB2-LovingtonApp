@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LovingtonApp</string>
+    <string name="description">Kami menjual oleh-oleh dengan berbagai variasi yang unik</string>
+    <string name="jenis_produk">Jenis produk</string>
+    <string name="bucket">Buket</string>
+    <string name="cake">Kue</string>
+    <string name="gift_box">Kotak hadiah</string>
+    <string name="lovington">Lovington</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="account">Akun</string>
+    <string name="history">Riwayat</string>
+    <string name="home">Home</string>
+    <string name="phone">Nomor HP</string>
+    <string name="confpw">Konfirmasi Password</string>
+    <string name="detail_product">Detail Produk</string>
+    <string name="product_name">Nama produk</string>
+    <string name="composisi">Komposisi</string>
+    <string name="amount">Jumlah</string>
+    <string name="price">Harga</string>
+    <string name="address">Alamat</string>
+    <string name="order">Beli</string>
+    <string name="order_history">Riwayat Pembelian</string>
+    <string name="profile">Profil</string>
+    <string name="activity">Aktivitas</string>
+    <string name="languages">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="uselocation">Gunakan lokasi saat ini</string>
+    <string name="succes_order">Pesanan Berhasil</string>
+    <string name="desc_order">Tunggu konfirmasi dari</string>
+    <string name="desc_order2">penjual di whatsapp anda!</string>
+</resources>
